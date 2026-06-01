@@ -9,5 +9,5 @@ export const SITE_CONFIG: SiteConfig = {
   headingFont: 'oswald',
   whatsappNumber: '421902535035',
   contactEmail: 'info@mysmeservis.sk',
-  googleReviewsUrl: '',
+  googleReviewsUrl: 'https://www.google.com/maps/search/MYSMESERVIS+Nové+Zlatovce+Trenčín',
 };
