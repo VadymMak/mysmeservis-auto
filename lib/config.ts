@@ -1,13 +1,13 @@
 import type { SiteConfig } from './types';
 
 export const SITE_CONFIG: SiteConfig = {
-  name: 'Your Business',
+  name: 'MYSMESERVIS',
   tagline: '',
   templateType: 'services',
-  palette: 'clean-light',
+  palette: 'professional',
   language: 'sk',
-  headingFont: 'inter',
-  whatsappNumber: '',
-  contactEmail: '',
+  headingFont: 'oswald',
+  whatsappNumber: '421902535035',
+  contactEmail: 'info@mysmeservis.sk',
   googleReviewsUrl: '',
 };
